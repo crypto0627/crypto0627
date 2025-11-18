@@ -1,5 +1,5 @@
-
-[![](https://raw.githubusercontent.com/crypto0627/crypto0627/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/crypto0627/crypto0627/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/crypto0627/crypto0627/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/crypto0627/crypto0627/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/crypto0627/crypto0627/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crypto0627&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crypto0627&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crypto0627&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crypto0627&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crypto0627&theme=2077&utcOffset=8)
