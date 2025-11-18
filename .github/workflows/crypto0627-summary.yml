@@ -15,8 +15,8 @@ build:
 
   steps:
     - uses: actions/checkout@v2
-    - uses: vn7n24fzkq/github-profile-summary-cards@release
+    - uses: crypto0627/github-profile-summary-cards@release
       env:
         GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
       with:
-        USERNAME: ${{ github.repository_owner }}
+        USERNAME: crypto0627
