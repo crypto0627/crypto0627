@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/crypto0627/crypto0627/master/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
+```
+
+    
